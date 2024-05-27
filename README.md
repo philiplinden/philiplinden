@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Phil's GitHub Banner](https://pbs.twimg.com/profile_banners/765600187150692352/1490817764/1500x500)
+![Phil's GitHub Banner](banner_1500x500.jpeg)
 
-![Twitter](https://img.shields.io/twitter/follow/philipjlinden?label=%40philipjlinden&style=social)
+-> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philiplinden/)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philiplinden/)
+-> [my website](https://philiplinden.github.io/)
+
+-> [resume](https://github.com/philiplinden/resume/releases)
